@@ -1,0 +1,10 @@
+/.vscode/
+/.idea/
+venv
+.pyc
+__pycache_/_
+.DS_Store
+
+
+# Project Config
+/config.py/
